@@ -11,6 +11,10 @@ The content is designed to reflect real-world support workflows rather than theo
 
 ---
 
+## Microsoft 365 Troubleshooting
+
+![Common M365 Troubleshooting Issues and Resolutions](CommonM365TroubleshootingIssuesandResolutions.pdf)
+
 ## Hardware Troubleshooting
 
 ![Common Hardware Issues and Resolutions](common-hardware-and-troubleshooting-issues-and-resolutions.png)
